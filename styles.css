@@ -118,6 +118,7 @@ p {
   height: 450px;
   object-fit: cover;
   border-radius: 10px;
+  grid-template-columns: repeat(4,1fr);
   transition: transform 0.3s ease-in-out;
 }
 
